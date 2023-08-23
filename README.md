@@ -1,4 +1,4 @@
-/# [Epic Username Checker]
+[Epic Username Checker]
 
 [How its working?]
 1. Generating Username or DisplayName.
