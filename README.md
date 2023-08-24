@@ -17,18 +17,18 @@
 ## 📥 Download
 Coming Soon...
 
-##⭐ 5 Stars - GIVING AWAY 100 AVAILABLE OG USERNAMES DATABASE 4-Letters, Random + AA - ZZ combinations!
-##⭐ 20 Stars - [Epic Username Checker V1]
-##⭐ 50 Stars - [Epic Username Checker V2]
-##⭐ 80 Stars - [Epic Username Checker Database with over 50K checked + 1000 Valid Usenames]
-##⭐ 100 Stars - GLOBAL Update for [Epic Username Checker]
+## ⭐ 5 Stars - GIVING AWAY 100 AVAILABLE OG USERNAMES DATABASE 4-Letters, Random + AA - ZZ combinations!
+## ⭐ 20 Stars - [Epic Username Checker V1]
+## ⭐ 50 Stars - [Epic Username Checker V2]
+## ⭐ 80 Stars - [Epic Username Checker Database with over 50K checked + 1000 Valid Usenames]
+## ⭐ 100 Stars - GLOBAL Update for [Epic Username Checker]
 
 🙏 Thanks for Your Interest!
 Don't forget to leave a star if you want to get it for free! ⭐
 
-##AVAILABLE DB 50+ USERNAMES EXMAPLE
+## AVAILABLE DB 50+ USERNAMES EXMAPLE
 ![checker1](https://github.com/curtishdev/EpicUsernameChecker/assets/54275918/41388e19-0339-4036-9632-b48a9bee38af)
 
 
-##TG Nofity Example
+## TG Nofity Example
 ![screenchecker](https://github.com/curtishdev/EpicUsernameChecker/assets/54275918/220d8ab9-ddf7-4849-a556-690233663190)
